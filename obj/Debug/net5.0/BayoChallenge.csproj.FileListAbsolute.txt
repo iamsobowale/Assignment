@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\BayoChallenge\obj\Debug\net5.0\BayoChallenge.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BayoChallenge\obj\Debug\net5.0\BayoChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BayoChallenge\obj\Debug\net5.0\BayoChallenge.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BayoChallenge\obj\Debug\net5.0\BayoChallenge.AssemblyInfo.cs
+C:\Users\user\Desktop\BayoChallenge\obj\Debug\net5.0\BayoChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BayoChallenge\bin\Debug\net5.0\BayoChallenge.exe
+C:\Users\user\Desktop\BayoChallenge\bin\Debug\net5.0\BayoChallenge.deps.json
+C:\Users\user\Desktop\BayoChallenge\bin\Debug\net5.0\BayoChallenge.runtimeconfig.json
+C:\Users\user\Desktop\BayoChallenge\bin\Debug\net5.0\BayoChallenge.runtimeconfig.dev.json
+C:\Users\user\Desktop\BayoChallenge\bin\Debug\net5.0\BayoChallenge.dll
+C:\Users\user\Desktop\BayoChallenge\bin\Debug\net5.0\ref\BayoChallenge.dll
+C:\Users\user\Desktop\BayoChallenge\bin\Debug\net5.0\BayoChallenge.pdb
+C:\Users\user\Desktop\BayoChallenge\obj\Debug\net5.0\BayoChallenge.dll
+C:\Users\user\Desktop\BayoChallenge\obj\Debug\net5.0\ref\BayoChallenge.dll
+C:\Users\user\Desktop\BayoChallenge\obj\Debug\net5.0\BayoChallenge.pdb
+C:\Users\user\Desktop\BayoChallenge\obj\Debug\net5.0\BayoChallenge.genruntimeconfig.cache
